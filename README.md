@@ -11,6 +11,8 @@ The project contains:
      - Coastal vs. Inland Poverty : https://public.tableau.com/app/profile/laneva.cobb/viz/Coastalvs_InlandPoverty/Dashboard1_1#
      - By Race : https://public.tableau.com/app/profile/laneva.cobb/viz/ByRaceDashboard/Dashboard2
    - Summary: a brief description of the visualization and the main story or findings conveyed
+     - link to file: [Coastal_vs_Inland_Poverty_Summary.pdf](https://github.com/LanevaCobb/Tableau_Visualization_Poverty/files/10979355/Coastal_vs_Inland_Poverty_Summary.pdf)
 
 Resources: US Demographic data
 link: https://www.kaggle.com/muonneutrino/us-census-demographic-data/data
+
